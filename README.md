@@ -31,11 +31,11 @@ Utilizando a versão do **_Python3_**
 
 ## Meus exercícios:
 
-:open_file_folder: [Mundo 1](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-1)
+:open_file_folder: [Mundo 1](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-1) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-1.md)
 
-:open_file_folder: [Mundo 2](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-2)
+:open_file_folder: [Mundo 2](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-2) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-2.md)
 
-:open_file_folder: [Mundo 3](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-3)
+:open_file_folder: [Mundo 3](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-3) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-3.md)
 
 ## Executando os códigos:
 
