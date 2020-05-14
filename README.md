@@ -9,19 +9,19 @@ Utilizando a versão do **_Python3_**
 
 ## Habilidades adquiridas:
 
-**1. Mundo 1 - Fundamentos**
+**Mundo 1 - Fundamentos**
 * Primeiros passos com Python
 * Tratando dados e fazendo contas
 * Usando módulos do Python
 * Condições em Python (if and else)
 * Trabalhando com Cores no Terminal
 
-**2. Mundo 2 - Estruturas de Controle**
+**Mundo 2 - Estruturas de Controle**
 * Condições (if and elif)
 * Repetições (for)
 * Repetições (while)
 
-**3. Mundo 3 - Estruturas Compostas**
+**Mundo 3 - Estruturas Compostas**
 * Tuplas
 * Listas
 * Dicionários
