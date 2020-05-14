@@ -35,6 +35,28 @@ Utilizando a versão do **_Python3_**
 
 :open_file_folder: [Mundo 3](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-3)
 
+## Executando os códigos:
+
+#### É necessário:
+- Alguma IDE de Python **ou**
+- Ter o Python instalado em sua máquina, saiba mais [aqui](https://www.python.org/downloads/) sobre a instalação do Python, pelo site oficial da linguagem. Ou clicando [aqui](https://tutorial.djangogirls.org/pt/python_installation/), para um tutorial mais detalhado da plataforma Django Girls Tutorials.
+
+#### Executando:
+
+1. Clone o projeto para a sua máquina
+2. Vá na pasta do mundo que deseja através do terminal
+3. Digite em seu terminal:
+`$ python3 _nome_do_arquivo_.py`
+Exemplo:
+`$ python3 ex001.py`
+4. Feito
+
+**_Ou_**
+
+1. Clone o projeto para a sua máquina
+2. Abra o projeto em alguma IDE que compile e rode Python (PyCharm, VSCode, ...)
+3. E dê 'run' no código que desejar
+
 ## Contribuindo
 
   - :star2: Coloca esse projeto nos seus favoritos com um Star
