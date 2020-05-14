@@ -37,7 +37,7 @@ Utilizando a versão do **_Python3_**
 
 :open_file_folder: [Mundo 3](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-3) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-3.md)
 
-:open_file_folder: [Todos os exercícios](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados.md)
+:file_folder: [Todos os exercícios](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados.md)
 
 #### Meus jogos em Python:
 
