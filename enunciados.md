@@ -468,23 +468,23 @@ C) qual é o nome do produto mais barato.
 
 100. Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex100.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex100.py)
 
 101. Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATÓRIO nas eleições.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex101.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex101.py)
 
 102. Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrato ou não na tela o processo de cálculo do fatorial.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex102.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex102.py)
 
 103. Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex103.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex103.py)
 
 104. Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante à função input() do python, só que fazendo a validação para aceitar apenas um valor númerico. Ex: n = leiaInt('Digite um número: ')
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex104.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex104.py)
 
 105. Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
 * Quantidade de notas
@@ -494,8 +494,8 @@ C) qual é o nome do produto mais barato.
 * A situação (opcional)
 * Adicione também as docstrings.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex105.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex105.py)
 
 106. Faça um mini-sistema que utilize o interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
 
-    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex106.py)
+   [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex106.py)
