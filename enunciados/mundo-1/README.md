@@ -94,9 +94,9 @@
     :page_facing_up: [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-1/ex021.py)
 
 22. Crie um programa que leia o nome completo de uma pessoa e mostre:
-* O nome com todas as letras maiúsculas e minúsculas;
-* Quantas letras ao todo (sem considerar espaços);
-* Quantas letras tem o primeiro nome.
+O nome com todas as letras maiúsculas e minúsculas;
+Quantas letras ao todo (sem considerar espaços);
+Quantas letras tem o primeiro nome.
 
     :page_facing_up: [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-1/ex022.py)
 
@@ -113,9 +113,9 @@
     :page_facing_up: [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-1/ex025.py)
 
 26. Faça um programa que leia uma frase pelo teclado e mostre:
-* Quantas vezes apareceu a letra "A";
-* Em que posição ela aparece a primeira vez.
-* Em que posição ela aparece a última vez.
+Quantas vezes apareceu a letra "A";
+Em que posição ela aparece a primeira vez.
+Em que posição ela aparece a última vez.
 
     :page_facing_up: [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-1/ex026.py)
 
