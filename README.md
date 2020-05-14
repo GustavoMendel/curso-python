@@ -15,9 +15,9 @@ Utilizando a versão do **_Python3_**
 * Trabalhando com Cores no Terminal
 
 **2. Mundo 2 - Estruturas de Controle**
-* Condições em Python (if and elif)
-* Repetições em Python (for)
-* Repetições em Python (while)
+* Condições (if and elif)
+* Repetições (for)
+* Repetições (while)
 
 **3. Mundo 3 - Estruturas Compostas**
 * Tuplas
