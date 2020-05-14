@@ -50,6 +50,7 @@ Utilizando a versão do **_Python3_**
 
 Exemplo:
 `$ python3 ex001.py`
+
 4. Feito
 
 **_Ou_**
