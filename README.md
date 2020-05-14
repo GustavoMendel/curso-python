@@ -7,7 +7,7 @@ A fim de estudar, treinar, e aprimorar minhas habilidades com lógica de program
 
 Utilizando a versão do **_Python3_**
 
-## Habilidades adquiridas:
+## Habilidades treinadas:
 
 **Mundo 1 - Fundamentos**
 * Primeiros passos com Python
