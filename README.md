@@ -73,4 +73,4 @@ Exemplo:
 
 ## Créditos
 
-Copyright (C) 2020 by Gustavo Mendel
+Copyright (C) 2019/2020 by Gustavo Mendel
