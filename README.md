@@ -1,7 +1,7 @@
 # Curso Python
 [![PYTHON](https://user-images.githubusercontent.com/55323701/81101376-6c5ddd80-8ee4-11ea-828f-92a6edbdd324.jpg)](https://www.python.org)
 
-Projeto com intuito de armazenar os exercícios feitos por [Gustavo Mendel](https://github.com/gustavo-mendel) com base no curso online gratuito da linguagem Python, disponibilizado na plataforma de vídeos YouTube do canal [Curso Em Video](https://www.youtube.com/user/cursosemvideo), do professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
+Projeto com intuito de armazenar os exercícios feitos por mim ([Gustavo Mendel](https://github.com/gustavo-mendel)) com base no curso online gratuito da linguagem Python, disponibilizado na plataforma de vídeos YouTube do canal [Curso Em Video](https://www.youtube.com/user/cursosemvideo), do professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 Utilizando a versão do **_Python3_**
 
