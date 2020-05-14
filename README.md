@@ -3,6 +3,8 @@
 
 Projeto com intuito de armazenar os exercícios feitos por mim ([Gustavo Mendel](https://github.com/gustavo-mendel)) com base no curso online gratuito da linguagem Python, disponibilizado na plataforma de vídeos YouTube do canal [Curso Em Video](https://www.youtube.com/user/cursosemvideo), do professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
+A fim de estudar, treinar, e aprimorar minhas habilidades com lógica de programação, e na liguagem Python.
+
 Utilizando a versão do **_Python3_**
 
 ## Habilidades adquiridas:
