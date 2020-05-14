@@ -47,6 +47,7 @@ Utilizando a versão do **_Python3_**
 2. Vá na pasta do mundo que deseja através do terminal
 3. Digite em seu terminal:
 `$ python3 _nome_do_arquivo_.py`
+
 Exemplo:
 `$ python3 ex001.py`
 4. Feito
