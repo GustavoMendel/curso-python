@@ -216,6 +216,8 @@
 *
     [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex114.py)
 
+**_Nota: Para o exercício 115, foi-se criado o pacote sistema, que pode ser encontrado [aqui](https://github.com/gustavo-mendel/logica-python/tree/master/mundo-3/sistema), além do arquivo pessoas.txt, que pode ser encontrado [aqui](https://github.com/gustavo-mendel/logica-python/blob/master/mundo-3/pessoas.txt)_**
+
 115. Crie um pequeno sistema modularizado que permite cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples.
 O sistema só vai ter 3 opções: cadastrar uma nova pessoa, ver as pessoas cadastradas e sair do programa.
 *
