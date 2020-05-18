@@ -179,7 +179,7 @@
     
 **_Os exercícios 107-112 utilizam o pacote utilidades, que está disponível em: _**
 
-	[Pacotes]()
+	[Pacotes](https://github.com/gustavo-mendel/logica-python/tree/master/mundo-3/utilidades)
 	
 **_Nota: A partir do exercício 107, foi-se criado o módulo 107, e ao decorrer, foi melhorado e transformado em módulo dentro do pacote._**	
 	
