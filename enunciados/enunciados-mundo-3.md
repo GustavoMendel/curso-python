@@ -207,3 +207,16 @@
 112. Dentro do pacote utilidades() que criamos no DESAFIO 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
 *
     [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex112.py)
+    
+113. Reescreva a função leiaInt() que fizemos no DESAFIO 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também a função leiaFloat() com a mesma funcionalidade.
+*
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex113.py)
+    
+114. Crie um código em Python que teste se o site Pudim está acessível pelo computador usado.
+*
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex114.py)
+
+115. Crie um pequeno sistema modularizado que permite cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples.
+O sistema só vai ter 3 opções: cadastrar uma nova pessoa, ver as pessoas cadastradas e sair do programa.
+*
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex115.py)

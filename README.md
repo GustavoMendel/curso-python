@@ -27,7 +27,7 @@ Utilizando a versão do **_Python3_**
 * Dicionários
 * Funções
 * Modularização
-* _Tratamento de erros_ (em andamento)
+* Tratamento de erros
 
 ## Meus exercícios:
 
