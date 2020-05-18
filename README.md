@@ -26,7 +26,7 @@ Utilizando a versão do **_Python3_**
 * Listas
 * Dicionários
 * Funções
-* _Modularização_ (em andamento)
+* Modularização
 * _Tratamento de erros_ (em andamento)
 
 ## Meus exercícios:

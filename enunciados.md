@@ -499,3 +499,33 @@ C) qual é o nome do produto mais barato.
 106. Faça um mini-sistema que utilize o interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
 *
     [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex106.py)
+    
+**_Os exercícios 107-112 utilizam o pacote utilidades, que está disponível em: _**
+
+	[Pacotes]()
+	
+**_Nota: A partir do exercício 107, foi-se criado o módulo 107, e ao decorrer, foi melhorado e transformado em módulo dentro do pacote._**	
+	
+107. Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro(), e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex107.py)
+    
+108. Adapte o código do DESAFIO 107, criando uma função adicional chamada formatar(), que consiga mostrar os valores como um valor monetário formatado.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex108.py)
+    
+109. Modifique as funções que foram criadas no DESAFIO 107, para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função formatar(), desenvolvida no DESAFIO 108.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex109.py)
+    
+110. Adicione ao módulo moeda.py criado nos desafios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex110.py)
+    
+111. Crie um pacote chamado utilidades, que tenha dois módulos internos chamados moeda e dado. Transfira todas as funções utilizadas nos desafios 107, 108, 109 e 110 para o primeiro pacote e mantenha tudo funcionando.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex111.py)
+    
+112. Dentro do pacote utilidades() que criamos no DESAFIO 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+
+    [Resolução](https://github.com/gustavo-mendel/logica-de-programacao-python/blob/master/mundo-3/ex112.py)
