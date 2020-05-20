@@ -7,7 +7,7 @@ A fim de estudar, treinar, e aprimorar minhas habilidades com lógica de program
 
 Utilizando a versão do **_Python3_**
 
-**_Nota: Alguns exercícios contam com uma sintaxe de cores na saída, algo parecido com '\033\[1:33m' ou '\033\[m'. Tais cores funcionam perfeitamente se estiver rodando os programas na IDE PyCharm, contudo, pode ser que ao rodas os programas em um terminal, ou compilador online, ou alguma outra IDE, há grandes chances das cores não aparecerem, neste caso, ignore a sintaxe das cores nos códigos._**
+**_Nota: Alguns exercícios contam com uma sintaxe de cores na saída, algo parecido com '\033\[1:33m' ou '\033\[m'. Tais cores funcionam perfeitamente se estiver rodando os programas na IDE PyCharm, contudo, pode ser que ao rodar os programas em um terminal, ou compilador online, ou alguma outra IDE, há grandes chances das cores não aparecerem, neste caso, ignore a sintaxe das cores nos códigos._**
 
 ## Habilidades treinadas:
 
