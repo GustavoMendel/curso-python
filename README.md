@@ -33,17 +33,17 @@ Utilizando a versão do **_Python3_**
 
 ## Meus exercícios:
 
-:open_file_folder: [Mundo 1](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-1) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-1.md)
+:open_file_folder: [Mundo 1](https://github.com/mende1/curso-python-CeV/tree/master/mundo-1) - [Resoluções](https://github.com/mende1/hello-world-python/blob/master/enunciados/enunciados-mundo-1.md)
 
-:open_file_folder: [Mundo 2](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-2) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-2.md)
+:open_file_folder: [Mundo 2](https://github.com/mende1/curso-python-CeV/tree/master/mundo-2) - [Resoluções](https://github.com/mende1/hello-world-python/blob/master/enunciados/enunciados-mundo-2.md)
 
-:open_file_folder: [Mundo 3](https://github.com/gustavo-mendel/curso-python-CeV/tree/master/mundo-3) - [Resoluções](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados/enunciados-mundo-3.md)
+:open_file_folder: [Mundo 3](https://github.com/mende1/curso-python-CeV/tree/master/mundo-3) - [Resoluções](https://github.com/mende1/hello-world-python/blob/master/enunciados/enunciados-mundo-3.md)
 
-:file_folder: [Todos os exercícios](https://github.com/gustavo-mendel/programacao-python/blob/master/enunciados.md)
+:file_folder: [Todos os exercícios](https://github.com/mende1/hello-world-python/blob/master/enunciados.md)
 
 #### Meus jogos em Python:
 
-:space_invader: [Jogos em Python](https://github.com/gustavo-mendel/jogos-com-python)
+:space_invader: [Jogos em Python](https://github.com/mende1/hello-world-2-python)
 
 ## Executando os códigos:
 
